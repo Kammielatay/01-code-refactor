@@ -14,6 +14,6 @@ A few things that Horiseon asked for were:
 By making this changes, the site is more optimized for search engines and the codebase is more sustainable for the long-term benefits. It also ensures that those persons with disabilities can access the website using assistive technologies. 
 
 ![](/images/index.html.png)
-![Alt Text](https://github.com/Kammielatay/01-code-refactor/blob/main/assets/images/index.html.png)
+![Alt Text](https://github.com/Kammielatay/Horiseon-Marketing-Agency/blob/main/assets/images/index.html.png)
 
-This site was built using [GitHub] (https://kammielatay.github.io/01-code-refactor/)
+This site was built using [GitHub] (https://kammielatay.github.io/Horiseon-Marketing-Agency/)
